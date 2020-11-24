@@ -1,20 +1,20 @@
 <h1>Hello!</h1>
 <h2>I'm Oscar Teodoro Ortiz</h2>
-<p>Game Developer | Web Developer | Design UI | Digital Content Creator</p>
+<p>Game Developer | Web Developer | Design UI | Mobile Developer</p>
 </br>
-<p>I'm an independent video game developer, I'm passionate about
-create games especially in 3D and I'll be uploading videos about
-developing games or projects you are doing.</p>
+<p>My name is Oscar! I am an independent Web, Mobile and Videogame developer, 
+ I am passionate about creating games especially in 3D and I will be uploading videos about the development 
+ of games or projects that I am doing.</p>
 
 ```javascript
 const oscar = {
-  nickname: "Zitro",
+  nickname: "zitrocode",
   code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Php', 'Python', 'Java', 'C#', 'C++'],
-  tools: ['Laravel', 'Node', 'Docker'],
+  tools: ['Laravel', 'NodeJS', 'React', 'Vue', 'Symfony', 'Electron'],
   architecture: ['microservices', 'event-driven', 'design system pattern'],
   projectProgress: {
-                        "webApplication" : "GA Cloud",
-                        "game" : "Before Life",
+                        "webApplication" : "X Cloud",
+                        "Proyect" : "GA Cloud",
                         "webSites" : "Web Personal"
                    },
  currentJobs: {
