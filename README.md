@@ -13,7 +13,7 @@ const oscar = {
   tools: ['Laravel', 'NodeJS', 'React', 'Vue'],
   architecture: ['microservices', 'event-driven', 'design system pattern'],
   projectProgress: {
-                        "Proyect" : "GA Cloud",
+                        "Proyect" : "MusCloud",
                         "game" : "Before Life",
                         "Charities": ["adopt.me", "finance.me"]
                    },
