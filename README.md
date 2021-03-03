@@ -9,19 +9,19 @@
 ```javascript
 const oscar = {
   nickname: "zitrocode",
-  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Php', 'Python', 'Java', 'C#', 'C++'],
-  tools: ['Laravel', 'NodeJS', 'React', 'Vue', 'Symfony', 'Electron'],
+  code: ['Javascript', 'HTML', 'CSS', 'Php', 'Python', 'Java', 'Kotlin', 'C++'],
+  tools: ['Laravel', 'NodeJS', 'React', 'Vue'],
   architecture: ['microservices', 'event-driven', 'design system pattern'],
   projectProgress: {
-                        "webApplication" : "X Cloud",
                         "Proyect" : "GA Cloud",
-                        "webSites" : "Web Personal"
+                        "game" : "Before Life",
+                        "Charities": ["adopt.me", "finance.me"]
                    },
  currentJobs: {
                         "Teacher" : "Instituto de compluingles de Oriente",
                         "Programmer" : "Freelance"
  },
- challenge: "I am doing the #100DaysOfCode challenge focused on NodeJS and Javascript"
+ // challenge: "I am doing the #100DaysOfCode challenge focused on NodeJS and Javascript"
 }
 ```
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
